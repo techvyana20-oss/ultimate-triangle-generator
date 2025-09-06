@@ -57,7 +57,7 @@ cd ultimate-triangle-generator
 ### 8. Run the script
 
 ```bash
-python triangle.py
+python ultimate_triangle.py
 ```
 
 ---
